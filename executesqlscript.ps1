@@ -1,0 +1,1 @@
+Invoke-Sqlcmd -Query "select * from table Employee" -ServerInstance "MyComputer\MainInstance" -Database "TestDB"
