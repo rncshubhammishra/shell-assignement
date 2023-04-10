@@ -1,1 +1,1 @@
-Invoke-Sqlcmd -Query "select * from table Employee" -ServerInstance "AZR14EUSVDP455" -Database "TestDB"
+Invoke-Sqlcmd -Query "select * from Employee" -ServerInstance "AZR14EUSVDP455" -Database "TestDB"
